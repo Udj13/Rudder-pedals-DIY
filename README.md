@@ -1,4 +1,19 @@
-# Rudder-pedals-DIY
+# Rudder pedals DIY
+
+Pedals made of scraps and sticks.
+
+## Components:
+
+Real pedals from an old An-2 aircraft
+
+Digispark development board ATTINY85 (https://aliexpress.ru/item/2043055746.html)
+
+Neodymium magnet (just magnetized to the piece of iron)
+
+Hall sensor 49e
+
+
+
 
 ![IMG_9848](https://github.com/user-attachments/assets/490f6a99-4cde-4c29-9a2e-d3adc3645e25)
 
