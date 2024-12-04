@@ -1,6 +1,6 @@
 # Rudder pedals DIY
 
-Pedals made of scraps and sticks. I made these pedals for my son, who is interested in small aviation. The key goal of the project was to incorporate a component from a real airplane. I didn’t even bother cleaning them so that the smell of aviation grease would stay. A Hall sensor and magnet are used as the sensor, so there are no wear-and-tear parts. The Digispark module pretends to be a joystick and changes one of the axes. The code is in the attached file.
+Pedals made of scraps and sticks. I made these pedals for my son, who is interested in small aviation and flight simulators. The key goal of the project was to incorporate a component from a real airplane. I didn’t even bother cleaning them so that the smell of aviation grease would stay. A Hall sensor and magnet are used as the sensor, so there are no wear-and-tear parts. The Digispark module pretends to be a joystick and changes one of the axes. The code is in the attached file.
 
 ## Components:
 
