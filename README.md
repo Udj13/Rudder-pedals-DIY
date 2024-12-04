@@ -14,12 +14,16 @@ Hall sensor 49e
 
 
 
+![1](https://github.com/user-attachments/assets/e4b8139c-887a-4b64-aa11-477169f6ad49)
 
-![IMG_9848](https://github.com/user-attachments/assets/490f6a99-4cde-4c29-9a2e-d3adc3645e25)
+![2](https://github.com/user-attachments/assets/19ac3c8e-e10a-4bee-b3fe-e280cc3f4ecd)
 
-![Digispark ATTINY85](https://github.com/user-attachments/assets/fff2a24f-00ff-4851-a462-f5414d9c3e4c)
+![3](https://github.com/user-attachments/assets/6dd9482e-45c5-4ce3-852b-5b88f0b049e8)
 
-![IMG_9803](https://github.com/user-attachments/assets/6400bc8a-1f8a-4b2b-b2ed-f92a4f103f52)
+![4](https://github.com/user-attachments/assets/6d743841-535f-403e-8fee-b231d289679f)
 
-![IMG_9802](https://github.com/user-attachments/assets/2f718657-25b1-4bc2-81aa-9382b5937213)
+![5](https://github.com/user-attachments/assets/0299441f-65e7-4be7-bea0-f17bb1d3e4db)
 
+![6](https://github.com/user-attachments/assets/991fef45-a77c-48ca-aaa8-35fc486d5a68)
+
+![7](https://github.com/user-attachments/assets/38c9eefb-b7cc-4b2e-b868-e66ee9f3668a)
